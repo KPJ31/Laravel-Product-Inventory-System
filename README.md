@@ -21,10 +21,7 @@ It demonstrates **1:1** and **1:N** relationships in Laravel with clean CRUD ope
 - 📦 **Product Management (CRUD)**
 - 📝 **Product Details (1:1 Relationship)**
 - ⭐ **Customer Reviews (1:N Relationship)**
-- 🔍 **Search & Filter** products by name, category, or manufacturer
-- 📊 **Pagination** for product listing
 - 🗑️ **Cascade Delete** (removes details & reviews when product is deleted)
-- 📤 **Optional Export** (CSV / PDF)
 
 ---
 

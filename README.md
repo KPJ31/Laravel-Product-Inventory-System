@@ -98,7 +98,15 @@ It demonstrates **1:1** and **1:N** relationships in Laravel with clean CRUD ope
 ---
 
 ## 📷 Screenshots (Optional)
-![imagealt]()
+![imagealt](https://github.com/KPJ31/Laravel-Product-Inventory-System/blob/25eef6fad00899ab83b24371d2721b44580f6a9d/Products%20Table.png)
+![imagealt](https://github.com/KPJ31/Laravel-Product-Inventory-System/blob/25eef6fad00899ab83b24371d2721b44580f6a9d/Products%20Details%20Table.png)
+![imagealt](https://github.com/KPJ31/Laravel-Product-Inventory-System/blob/25eef6fad00899ab83b24371d2721b44580f6a9d/Review%20Table.png)
+![imagealt](https://github.com/KPJ31/Laravel-Product-Inventory-System/blob/25eef6fad00899ab83b24371d2721b44580f6a9d/Add%20Product.png)
+![imagealt](https://github.com/KPJ31/Laravel-Product-Inventory-System/blob/25eef6fad00899ab83b24371d2721b44580f6a9d/Add%20Review.png)
+![imagealt](https://github.com/KPJ31/Laravel-Product-Inventory-System/blob/25eef6fad00899ab83b24371d2721b44580f6a9d/Edit%20Product.png)
+![imagealt](https://github.com/KPJ31/Laravel-Product-Inventory-System/blob/25eef6fad00899ab83b24371d2721b44580f6a9d/Edit%20Review.png)
+![imagealt](https://github.com/KPJ31/Laravel-Product-Inventory-System/blob/25eef6fad00899ab83b24371d2721b44580f6a9d/Product%20Details.png)
+![imagealt](https://github.com/KPJ31/Laravel-Product-Inventory-System/blob/25eef6fad00899ab83b24371d2721b44580f6a9d/Review%20Details.png)
 
 ---
 

@@ -98,7 +98,7 @@ It demonstrates **1:1** and **1:N** relationships in Laravel with clean CRUD ope
 ---
 
 ## 📷 Screenshots (Optional)
-_Add screenshots of product list, product details page, and reviews here._
+![imagealt]()
 
 ---
 

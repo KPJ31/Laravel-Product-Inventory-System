@@ -3,7 +3,7 @@
 @section('main-content')
     <div class="col-5 mx-5">
         <div class="card p-4 shadow">
-            <h1 class="mb-4 text-center fw-bold">Book Form</h1>
+            <h1 class="mb-4 text-center fw-bold">Add Review</h1>
             <form action="{{ route('reviews.store') }}" method="post">
                 @csrf
 

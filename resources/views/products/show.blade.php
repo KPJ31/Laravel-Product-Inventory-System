@@ -3,7 +3,7 @@
 @section('main-content')
     <div class="col-5 mx-3">
         <div class="card p-4 shadow">
-            <h1 class="mb-4 text-center fw-bold">Author Details</h1>
+            <h1 class="mb-4 text-center fw-bold">Products Details</h1>
             
             <div class="mb-3">
                 <b class="fs-5">Product Name:</b>

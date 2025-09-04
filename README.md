@@ -54,10 +54,9 @@ It demonstrates **1:1** and **1:N** relationships in Laravel with clean CRUD ope
 ---
 
 ## 🛠️ Tech Stack
-- **Framework:** Laravel 10+  
+- **Framework:** Laravel 12  
 - **Database:** MySQL  
 - **Frontend:** Blade Templates, Bootstrap  
-- **Export:** Laravel Excel / DomPDF (optional)  
 
 ---
 
@@ -123,5 +122,5 @@ This project is licensed under the **MIT License** – feel free to use and modi
 ---
 
 ## 👨‍💻 Author
-**Panchalingam Janarthan**  
+**K.P.Janarthan**  
 🔗 [GitHub](https://github.com/kpj31) | [Portfolio](www.linkedin.com/in/janarthan-panchalingam)  
